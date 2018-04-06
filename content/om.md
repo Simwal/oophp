@@ -3,14 +3,15 @@
 Om
 =========================
 
-Denna webbplatsen är en del av kursen [XXX](https://dbwebb.se/kurser/XXX). Uppdatera så att länken går till kursens hemsida på dwebb.se.
+Denna webbplatsen är en del av kursen [oophp](https://dbwebb.se/kurser/oophp).
 
-Några egna kloka ord om kursen?
+[FIGURE src="image/about-img.jpg?h=300" alt="computer with code"]
 
-En fin och representativ bild för kursen, enligt ditt egna val.
+Den här webbsidan använder sig av ramverket Anax Flat.
 
-[FIGURE src=image/car.png?w=300 caption="En fin bil som demobild."]
+Det huvudsakliga målet med den här sidan är att:
 
-Länka till [dbwebb kursrepot på GitHub](https://github.com/dbwebbse/XXX).
+* Lära mig mer om ramverk och objektorienterad programmering
 
-Länka till [ditt eget repo för me/redovisa på GitHub](https://github.com/XXX/XXX).
+*[GitHub dbwebb-oophp](https://github.com/dbwebb-se/oophp)*<br />
+*[GitHub me/redovisa](https://github.com/Simwal/oophp)*

@@ -10,6 +10,7 @@ body {
     margin: 0;
     background-color: #fff;
     word-wrap: break-word;
+    font-family: Verdana;
 }
 
 .outer-wrap {
@@ -31,8 +32,8 @@ body {
 .outer-wrap-header {
     max-width: 100%;
     min-height: 2em;
-    background-color: #000;
-    color: #fff;
+    background-color: #f99;
+    color: #333;
 }
 
 .outer-wrap-header {
@@ -49,6 +50,10 @@ body {
     left: 1em;
 }
 
+.wrap-header {
+    padding-top: 5px;
+}
+
 
 
 /**
@@ -57,7 +62,7 @@ body {
 .outer-wrap-navbar {
     max-width: 100%;
     min-height: 2em;
-    background-color: #535353;
+    background-color: #404040;
     color: #fff;
     padding: 0.5em 0;
 }
@@ -96,9 +101,14 @@ body {
 .outer-wrap-footer {
     max-width: 100%;
     min-height: 10em;
-    background-color: #424242;
-    color: #fff;
+    background-color: #f99;
+    color: #333;
     padding: 1em 0;
+    margin-top: 200px;
+}
+
+.outer-wrap-footer p {
+    text-align: center;
 }
 
 

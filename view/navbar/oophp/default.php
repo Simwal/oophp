@@ -11,7 +11,6 @@ namespace Anax\View;
 
 ?>
 
-NAVBAR <?= __FILE__ ?> <br>
 
 <navbar>
     <a href="<?= url("") ?>">Hem</a> |
