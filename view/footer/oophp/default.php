@@ -8,4 +8,4 @@ namespace Anax\View;
 
 // Show incoming variables and view helper functions
 //echo showEnvironment(get_defined_vars(), get_defined_functions());
-?><p>Coyright &copy; Simon Wallin 2018</p>
+?><p>Copyright &copy; Simon Wallin 2018</p>
