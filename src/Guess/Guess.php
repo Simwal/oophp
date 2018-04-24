@@ -49,7 +49,6 @@ class Guess
     public function random()
     {
         $this->number = rand(1, 100);
-
     }
 
 

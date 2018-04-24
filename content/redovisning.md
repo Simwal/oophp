@@ -25,14 +25,27 @@ Kmom01
 Kmom02
 -------------------------
 
-Här är redovisningstexten
+Coming soon...
 
 
 
 Kmom03
 -------------------------
 
-Här är redovisningstexten
+<h4>Har du tidigare erfarenheter av att skriva kod som testar annan kod?</h4>
+<p>Nej, inte vad jag kommer ihåg. Jag har ju självklart testat min kod för att se att den fungerar men jag har inte testat på detta sätt som vi gjort nu. Jag hade inte hört talas om PHPunit tidigare så det var nytt för mig.</p>
+
+<h4>Hur ser du på begreppen enhetstestning och att skriva testbar kod?</h4>
+<p>Jag har faktiskt inte tänkt på det så mycket tidigare. Jag har antagligen mer fokuserat på att få saker att fungera och sedan har det varit nog. Jag kan dock självklart se fördelen att göra tester och skriva testbar kod. Det är mycket bättre att du som utvecklare upptäcker eventuella fel direkt genom din testning än att en slutanvändare skall upptäcka fel och sedan eventuellt rapportera det. Genom att ha testning i åtanke och testa sin kod kan jag även se att det kan ge utvecklaren ett djupare förstående för sin egen kod och se om den beter sig som förväntat. </p>
+
+<h4>Förklara kort begreppen white/grey/black box testing samt positiva och negativa tester, med dina egna ord.</h4>
+<p>Som jag förstår det designas white box testing med bakgrunden att vi redan vet den praktiska tillämpningen av metoderna. Varje del av koden skall testas för att få en så hög "code coverage" som möjligt. I black box testing arbetare vi utifrån kodens egna gränssnitt och vi vet inte ännu exakt hur koden skall tillämpas praktiskt. Grey box testing är en blandning av white och black box testing. Positiva tester innebär att vi testar om koden gör det vi hade tänkt att den skulle göra och negativa tester innefattar att vi testar om koden gör det som den inte bör göra.</p>
+
+<h4>Hur gick det att genomföra uppgifterna med enhetstester, använde du egna klasser som bas för din testning?</h4>
+<p>På grund av att jag var helt ny på detta med enhetstester valde jag att använda den exempelkod som vi fick med uppgiften och testade mot den. Klasskoden för Gissa-spelet var ändå väldigt lik min egna kod i detta fallet.</p>
+
+<h4>Vilken är din TIL för detta kmom?</h4>
+<p>Min TIL denna gång var att använda mig av PHPunit. Jag hade inte använt mig av det tidigare eller hört talas om det så det var helt nytt för min del.</p>
 
 
 
